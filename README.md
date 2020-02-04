@@ -2,7 +2,7 @@
 
 Posting data changes using **NotificationCenter**.
 
-#### Post changes via NotificationCenter
+#### Post changes via NotificationCenter from object broadcasting changes
 ```swift 
 NotificationCenter.default.post(name: Notification.Name(DataModel.nameSetNotification), object: nil, userInfo:[DataModel.nameSetNotification:name])
 ```
