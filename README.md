@@ -1,6 +1,6 @@
 # TabNotificationCenter
 
-Posting data changes using NotificationCenter.
+Posting data changes using **NotificationCenter**.
 
 #### Post changes via NotificationCenter
 ```swift 
